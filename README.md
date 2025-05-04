@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TravvDogg, You can call me Trav
-- 👀 I’m interested in UI/UX Design
-- 🌱 I’m currently a media student at RMIT University Australia
+- 🌱 I’m currently a student at RMIT University Australia
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Everything is edible at least once.
 
